@@ -1,3 +1,3 @@
-# CODSOFT_Task02
+# CALCULATOR
 
-This is my Task02 of CodSoft Training Internship
+This is a Calculator
